@@ -9,7 +9,7 @@ Plots:
 *  Tag popularity in descending order.
 
 Use:
-*  Install the extension.
+*  Install the extension from [here](https://chromewebstore.google.com/detail/piazzanalytics/hbmbhmnbncdcohcmlhpcomefffokmckl).
 *  Find the Piazzanalytics buttons in the top navigation or feed bars.
 ![piazzanalytics_ss1](https://github.com/ozgunozankilic/Piazzanalytics/assets/19360437/6876c7b7-57a0-4fa1-b213-79241366ec1f)
 *  Click on one of the Piazzanalytics buttons to open the modal.
